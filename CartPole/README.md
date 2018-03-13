@@ -8,7 +8,7 @@ These are the results obtained with different algorithms. The result can still b
 
 
 # DQN #
-![dqn](https://raw.githubusercontent.com/dhairya0904/Deep-Reinforcement-Learning/master/rewards_graph/dqn-reward.png)
+![dqn](rewards_graph/dqn-reward.png)
 )
 
 # Duel-DQN #
